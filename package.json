@@ -1,7 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
-  "homepage": "https://ankitbhagat07.github.io/react_deploy_gh",
+  "homepage": "https://ankitbhagat07.github.io/react_deploy_netlify",
   "private": true,
   "dependencies": {
     "react": "^19.1.1",
